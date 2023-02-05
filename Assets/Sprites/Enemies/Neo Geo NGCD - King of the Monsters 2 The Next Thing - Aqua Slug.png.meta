@@ -1,0 +1,2137 @@
+fileFormatVersion: 2
+guid: cfe878e5457a2c240b74812ea23d3901
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1079
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b90315a4ef54049af1d492081e294d
+      internalID: -1938001187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1079
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517f0b0bd939376439c70e062c3ed96d
+      internalID: -1268066687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1080
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09bdccc3c56c1742b1d56e4ee212408
+      internalID: -1114092188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_3
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1081
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0eb22b41561d34e9ef93bc38414a71
+      internalID: 455549408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_4
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1082
+        width: 75
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bf674366e48b64f8ef9d55e7edd0e1
+      internalID: -618648250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_5
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1084
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66eb96a47402bc24685c2e63318dab49
+      internalID: 542904228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_6
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1084
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aaa9d635f0340c448db0cddb9fbe5b1
+      internalID: -830299091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_7
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1083
+        width: 94
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c4ffcdede61a646baffac91485123b
+      internalID: -858510930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 967
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c73d01c232d8f34ea5bd3dd9e6ec21d
+      internalID: -320127024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 967
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a132be5fab9114d80be9ae4f804b16
+      internalID: -1601392352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 966
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d0b97bbba675144a6b832362a0337d
+      internalID: 1690435795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 967
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfa03b80df0a3e448eafb35a33b518d
+      internalID: 3600608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_12
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 967
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746129df703f0a742813fee9ebba8e9c
+      internalID: 2106130344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_13
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 965
+        width: 32
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472ed4ebec3e9654a86a24140fc0a696
+      internalID: -325358216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_14
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 966
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a886bb5eef0874bb91c61fd4924f3b
+      internalID: -965003107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_15
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 967
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e0a8a1dfb5e5949a6eb2f3e14ebdd0
+      internalID: 538540168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_16
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 967
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578d8010e5d76354c93f816dcb7036d5
+      internalID: 340620367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_17
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 967
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256e77470335d8e4e9ab601759f58e6e
+      internalID: 835436489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 841
+        width: 96
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31086e71593590847b8e4800953c45a5
+      internalID: 679709360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_19
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 842
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982344e08e55ed444938e78625b80c7e
+      internalID: 1560934363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 844
+        width: 62
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed575abef74fe44397805a986b46ddd
+      internalID: 1684246547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_21
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 844
+        width: 59
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc80f767ae349d40a998122504b4ffb
+      internalID: -1139412331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_22
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 845
+        width: 62
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb12bfbed861d70488b0c67b8f07b859
+      internalID: -1219900615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_23
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 845
+        width: 78
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3857d392316ab049bc9e700a6c03473
+      internalID: -2085703858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_24
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 846
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92329757a9ab2744cbc650c759f99ddf
+      internalID: -1092709914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_25
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 852
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f302e21a286e799408d40475fcac0448
+      internalID: -689939946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_26
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 849
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68180b095941cc1429c345e207fa806a
+      internalID: -1631330087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_27
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 734
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ec243658bc60d4e9703a96c578881a
+      internalID: -2038876408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_28
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 738
+        width: 93
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60254e5a95f1ac84184b34fb789da3d5
+      internalID: 1783916965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 740
+        width: 125
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99cff4b3d4d9364486fd962e8732050
+      internalID: 889288826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_30
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 739
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccf61efd1b7cc149a680f224b0c5894
+      internalID: 1928092260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_31
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 744
+        width: 127
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0b2c9bf74757d458d080038abc9fcd
+      internalID: -1075524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_32
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 743
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab07afa3bd80b7145a6b9097d12386cd
+      internalID: -1551660307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_33
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 745
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c598ad22fb6989e46acae64480194481
+      internalID: 782913301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_34
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 632
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582d6cc9363304846993113dd3d031d4
+      internalID: -1964590335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_35
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 631
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002914db045d9ba4ea344e4673811df5
+      internalID: -1672160735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_36
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 631
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c141967a5277d4a87f76b77b4a4a3b
+      internalID: -1598999485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_37
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 638
+        width: 71
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b40ef72c82a9d47b5554b4559c6503
+      internalID: 1325630717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_38
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 636
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e57da264acd634a863331bfff5579c
+      internalID: -2146035086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_39
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 635
+        width: 79
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553406dcbbe48d7458e7bb889027cd62
+      internalID: -1912748494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_40
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 637
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358ca07a6d9459e4a94d05d6dd20c8ba
+      internalID: -1291163434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_41
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 516
+        width: 78
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab06c8159ffcd54cb390d35897032ea
+      internalID: 848059569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_42
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 603
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f435df49535e51440aa4722fcf9b3fb8
+      internalID: 1428603130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_43
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 601
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef82554b38e63a449bb69e1d59bb3fd
+      internalID: 1137640890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_44
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 516
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbbe1c424cf59e45abbf3b5311c04fd
+      internalID: 223376618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_45
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 516
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec03c995ec054b940abd45cb5fcb9e9d
+      internalID: 89748333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_46
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 516
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44116063b142004895dac0cfc8bf6a6
+      internalID: -1760685941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_47
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 516
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d8ac3593b50384f9ba191ab6821601
+      internalID: 685021130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_48
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 516
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9465aea754b5968438d3f3a4e7fb544c
+      internalID: 27022441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_49
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 520
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7a7f04139e6204b8fafe8149e770f6
+      internalID: 744199411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_50
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 561
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1180dc8116662d4aae1eb7608524280
+      internalID: -627845204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_51
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 516
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af763ca8c1463cd44bb8f6af8860de5d
+      internalID: -64053902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_52
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 521
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa824d5bfc1d9f408594ec0e30f8577
+      internalID: 587180068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_53
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 372
+        width: 60
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32405d847285b04428d493466c09d3f7
+      internalID: -908730820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_54
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 373
+        width: 60
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b77685838c62b44903898cbd726a18
+      internalID: 241917261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_55
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 372
+        width: 88
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cfb00944a7a4f40adf19e483509a10
+      internalID: 2085559212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_56
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 371
+        width: 88
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856ee358c85811c42a48724f943d2940
+      internalID: -104032441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_57
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 369
+        width: 88
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b090cd7e94096f4b87e6078c6ec7b80
+      internalID: -1971378652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_58
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 355
+        width: 235
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ee230be9f0f95448703c82c7901d34
+      internalID: -1936665694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 267
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae66fd09b3c3c440bf12ff4d4ac5241
+      internalID: 1746269331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_60
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 267
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0017c590fdf764e45bc8ddebb37f9492
+      internalID: 1798481429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_61
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 266
+        width: 69
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0045a441f86f9204b922dedd7dc1b4d9
+      internalID: -534178385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_62
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 266
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a97bc0c10baab4fae873bcc0f9c96f
+      internalID: -927222334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_63
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 266
+        width: 60
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1acc400895dd7f4cba1a8d4eff22087
+      internalID: -701131003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_64
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 267
+        width: 79
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c635b07bd8be9ea4aa0b6141bf6a24b0
+      internalID: -138451120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_65
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 268
+        width: 91
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc574190a653f44284aaa9a29feac68
+      internalID: 1390137035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_66
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 125
+        width: 95
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678495bf2ce9826459a9de7150e373d4
+      internalID: -1992329664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_67
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 233
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b3f641d5d2973439ae6faa64e07e68
+      internalID: 288250808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_68
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 125
+        width: 95
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3eeacb12a6c9a478b2a1d540b5407c
+      internalID: -1122574453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_69
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 246
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ada3504cd464984fbbdd278f52307c2
+      internalID: -1879092556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_70
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 125
+        width: 96
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5020cfedab2b9374e924210671ab90b3
+      internalID: -2094627782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_71
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 234
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3c5c8f5999bc949a5964047690cfb7
+      internalID: -771597575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_72
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 229
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f6d272fd5099042b9f9dce393c6109
+      internalID: -525334758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_73
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 230
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7323ee99192d21d499b1ec323068defc
+      internalID: 342634892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_74
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 125
+        width: 96
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6d7cacf3a845d489e442e5298a08f5
+      internalID: 956730745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_75
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 229
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d87f7e1ee3cd348a00000ec7fa9d3c
+      internalID: 847254180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_76
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 223
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2202e93b5811e884086cbb19f266560d
+      internalID: -1645984456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_77
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 216
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a3b7b5f6d6ee941a8c9d12e430ec05
+      internalID: 1660068639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_78
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 123
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afff7a6b4af88cb419b29595ed29f919
+      internalID: -1481225443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_79
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 123
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6f1797d6ab78644b20030752a5af14
+      internalID: 44612918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_80
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 21
+        width: 96
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a43e9be75d82c4a991c57e3ad1041e
+      internalID: -950672090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_81
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 24
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4568e500647fc84ea3f06b07f300913
+      internalID: -1644055070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_82
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 26
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cdf169214c42a488494da6dec82785
+      internalID: -2145300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_83
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 24
+        width: 92
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baa979b9e166154e98baccbc2670b57
+      internalID: -2022263253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_84
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 19
+        width: 95
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df73de8f04bdb3645a2ec8e4054efb01
+      internalID: 878441648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_85
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 73
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310ad658f16aa8b4eb941d34ab2bb393
+      internalID: 1144258756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_86
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 79
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96d5a8413621084b960a0bbf55940ca
+      internalID: 627709903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_87
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 78
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e010de2a5c427942b03e722054a12a1
+      internalID: 784605582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_88
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 22
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7b083b7b4a35e4eb3e9d54ef6a5373
+      internalID: -1743897078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_89
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 20
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15b76cfdf109b1498ba1512047e382d
+      internalID: 1014125054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_90
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 23
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb3776ba50713b46983a0e3b4125b07
+      internalID: -1076004267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_89: 1014125054
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_41: 848059569
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_82: -2145300428
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_3: 455549408
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_17: 835436489
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_57: -1971378652
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_36: -1598999485
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_79: 44612918
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_7: -858510930
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_22: -1219900615
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_90: -1076004267
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_10: 1690435795
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_34: -1964590335
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_59: 1746269331
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_25: -689939946
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_84: 878441648
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_88: -1743897078
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_12: 2106130344
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_73: 342634892
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_28: 1783916965
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_51: -64053902
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_20: 1684246547
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_8: -320127024
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_9: -1601392352
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_32: -1551660307
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_1: -1268066687
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_5: 542904228
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_43: 1137640890
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_48: 27022441
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_85: 1144258756
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_6: -830299091
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_62: -927222334
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_13: -325358216
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_70: -2094627782
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_16: 340620367
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_56: -104032441
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_42: 1428603130
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_86: 627709903
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_2: -1114092188
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_52: 587180068
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_35: -1672160735
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_50: -627845204
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_67: 288250808
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_76: -1645984456
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_27: -2038876408
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_37: 1325630717
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_30: 1928092260
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_60: 1798481429
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_15: 538540168
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_18: 679709360
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_77: 1660068639
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_23: -2085703858
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_19: 1560934363
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_0: -1938001187
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_71: -771597575
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_21: -1139412331
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_45: 89748333
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_63: -701131003
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_40: -1291163434
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_65: 1390137035
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_39: -1912748494
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_24: -1092709914
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_47: 685021130
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_31: -1075524
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_55: 2085559212
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_26: -1631330087
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_29: 889288826
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_80: -950672090
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_49: 744199411
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_83: -2022263253
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_87: 784605582
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_75: 847254180
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_58: -1936665694
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_64: -138451120
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_81: -1644055070
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_72: -525334758
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_46: -1760685941
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_33: 782913301
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_74: 956730745
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_78: -1481225443
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_44: 223376618
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_53: -908730820
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_14: -965003107
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_66: -1992329664
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_69: -1879092556
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_4: -618648250
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_68: -1122574453
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_54: 241917261
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_61: -534178385
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_38: -2146035086
+      Neo Geo NGCD - King of the Monsters 2 The Next Thing - Aqua Slug_11: 3600608
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
