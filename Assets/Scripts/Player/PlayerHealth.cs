@@ -16,12 +16,12 @@ public class PlayerHealth : MonoBehaviour
         lifebar.InitiateLifeBar(life);
     }
 
-    
+
     public void TakeDamage(float damage)
     {
         life -= damage;
         lifebar.ChangeCurrentLife(life);
-        if (life <=0)
+        if (life <= 0)
         {
             Destroy(gameObject);
         }

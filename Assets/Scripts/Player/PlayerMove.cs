@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Movimiento : MonoBehaviour
+public class PlayerMove : MonoBehaviour
 {
     private Rigidbody2D rb2D;
 
@@ -36,7 +36,7 @@ public class Movimiento : MonoBehaviour
     void Update()
     {
         movimientoHorizontal = Input.GetAxisRaw("Horizontal") * velocidadDeMovimiento;
-        if(Input.GetButtonDown("Jump"))
+        if (Input.GetButtonDown("Jump"))
         {
             salto = true;
         }
@@ -63,7 +63,7 @@ public class Movimiento : MonoBehaviour
             Girar();
         }
 
-        if(enSuelo && saltar)
+        if (enSuelo && saltar)
         {
             enSuelo = false;
             rb2D.AddForce(new Vector2(0f, fuerzaSalto));

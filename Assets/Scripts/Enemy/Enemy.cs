@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Boss : MonoBehaviour
+public class Enemy : MonoBehaviour
 {
     [SerializeField] private float timeDamage;
     private float timeNextDamage;
@@ -12,14 +12,15 @@ public class Boss : MonoBehaviour
 
     private void OnTriggerStay2D(Collider2D other)
     {
-        if(other.CompareTag("Player"))
+        if (other.CompareTag("Player"))
         {
             timeNextDamage -= Time.deltaTime;
             if (timeNextDamage <= 0)
             {
-            other.GetComponent<PlayerHealth>().TakeDamage(20);
-            timeNextDamage = timeDamage;
-            } 
+                other.GetComponent<PlayerHealth>().TakeDamage(10);
+                timeNextDamage = timeDamage;
+            }
         }
     }
+
 }
