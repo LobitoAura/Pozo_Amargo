@@ -10,7 +10,7 @@ public class Movimiento : MonoBehaviour
     private float movimientoHorizontal = 0f;
 
     [SerializeField] private float velocidadDeMovimiento;
-    [SerializeField] private float suavizadoDeMovimiento;
+    [Range(0, 0.3f)][SerializeField] private float suavizadoDeMovimiento;
 
     private Vector3 velocidad = Vector3.zero;
 
