@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Spike : MonoBehaviour
+public class Enemy : MonoBehaviour
 {
     [SerializeField] private float timeDamage;
     private float timeNextDamage;
@@ -17,7 +17,7 @@ public class Spike : MonoBehaviour
             timeNextDamage -= Time.deltaTime;
             if (timeNextDamage <= 0)
             {
-            other.GetComponent<PlayerHealth>().TakeDamage(5);
+            other.GetComponent<PlayerHealth>().TakeDamage(10);
             timeNextDamage = timeDamage;
             } 
         }
