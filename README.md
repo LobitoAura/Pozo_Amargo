@@ -1,8 +1,7 @@
-# GGJ2023
+# Pozo Amargo
+
 Global Game Jam 2023 Argentina-Salta
 
-
-GGJ23: Pozo Amargo
 
 Don Medina no era el hombre más divertido del pueblo, o de la provincia si somos honestos. Siempre de mal humor, no había nada ni nadie que le sentara bien. Siempre con su machete a la cintura y su cara de pocos amigos (no tenía ninguno), era intimidante aún a pesar de tener 87 años y parecer de 105.
 Vivía solo, desde la muerte de su mujer años antes. Nunca tuvo hijos, y por eso pasaba sus días en completo silencio y quietud en su ranchito en medio del monte. Salía únicamente para buscar agua, atender a los animales o ir al pueblo.
