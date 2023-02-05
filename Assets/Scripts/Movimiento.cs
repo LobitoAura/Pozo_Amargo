@@ -16,6 +16,16 @@ public class Movimiento : MonoBehaviour
 
     private bool mirandoDerecha = true;
 
+    [Header("Salto")]
+    [SerializeField] private float fuerzaSalto;
+    [SerializeField] private LayerMask queEsSuelo;
+    [SerializeField] private Transform controladorSuelo;
+    [SerializeField] private Vector3 dimensionesCaja;
+    [SerializeField] private bool enSuelo;
+    private bool salto = false;
+
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -26,14 +36,20 @@ public class Movimiento : MonoBehaviour
     void Update()
     {
         movimientoHorizontal = Input.GetAxisRaw("Horizontal") * velocidadDeMovimiento;
+        if(Input.GetButtonDown("Jump"))
+        {
+            salto = true;
+        }
     }
 
     private void FixedUpdate()
     {
-        Mover(movimientoHorizontal * Time.fixedDeltaTime);
+        enSuelo = Physics2D.OverlapBox(controladorSuelo.position, dimensionesCaja, 0f, queEsSuelo);
+        Mover(movimientoHorizontal * Time.fixedDeltaTime, salto);
+        salto = false;
     }
 
-    private void Mover(float mover)
+    private void Mover(float mover, bool saltar)
     {
         Vector3 velocidadObjetivo = new Vector2(mover, rb2D.velocity.y);
         rb2D.velocity = Vector3.SmoothDamp(rb2D.velocity, velocidadObjetivo, ref velocidad, suavizadoDeMovimiento);
@@ -46,6 +62,12 @@ public class Movimiento : MonoBehaviour
         {
             Girar();
         }
+
+        if(enSuelo && saltar)
+        {
+            enSuelo = false;
+            rb2D.AddForce(new Vector2(0f, fuerzaSalto));
+        }
     }
     private void Girar()
     {
@@ -53,5 +75,11 @@ public class Movimiento : MonoBehaviour
         Vector3 escala = transform.localScale;
         escala.x *= -1;
         transform.localScale = escala;
+    }
+
+    private void OnDrawGizmos()
+    {
+        Gizmos.color = Color.yellow;
+        Gizmos.DrawWireCube(controladorSuelo.position, dimensionesCaja);
     }
 }
