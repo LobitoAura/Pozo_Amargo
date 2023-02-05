@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5505515968444130140}
   - component: {fileID: 3166316620790183905}
   - component: {fileID: 2640855122160248054}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TX Tileset Ground_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
